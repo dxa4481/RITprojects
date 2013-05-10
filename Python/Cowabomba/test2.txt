@@ -1,0 +1,2 @@
+bomb RED 0 0 0
+bomb GREEN 0 0 0

@@ -1,0 +1,5 @@
+The first test case is just an empty text file, it shows what happens when the user passes in a file with no data
+
+The second test case test what happens when bombs are on top of one another with 0 radius, because the bombs are enclusive this should blow each other up
+
+The third test case shows what happens when the bombs are not in range of each otehr or any cows
