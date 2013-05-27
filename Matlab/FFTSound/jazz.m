@@ -1,5 +1,6 @@
 function jazz (nmax)
-
+%%This program does an FFT on a sound file, and then reconstructs the sound file given the
+%number of harmonics you wish to include. nmax is the number of harmonics
 
 
 
